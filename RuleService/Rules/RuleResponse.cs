@@ -2,6 +2,6 @@
 {
     public class RuleResponse
     {
-        public string message { get; init; }
+        public string Message { get; init; }
     }
 }
